@@ -1,9 +1,10 @@
 # My ClientBook
 
-**Your One Stop Solution To Keep Track Of All Your Clients
+_Your One Stop Solution To Keep Track Of All Your Clients_
 
 
-iOS Application for hairstylists to store client information, client notes, appointments.
+iOS Application for hairstylists to store client information, client notes, appointments
+
 
 Database : Firebase FireStore 
 
